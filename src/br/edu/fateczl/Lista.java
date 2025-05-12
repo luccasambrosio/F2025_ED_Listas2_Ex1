@@ -1,4 +1,4 @@
-package model;
+package  br.edu.fateczl;
 
 import java.util.NoSuchElementException;
 
